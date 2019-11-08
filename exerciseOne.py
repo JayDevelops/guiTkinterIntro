@@ -1,6 +1,7 @@
 import tkinter
 
-window = tkinter.Tk() # Makes a new window
+# Makes a new window
+window = tkinter.Tk()
 
 # Congifure the interface
 window.geometry("1200x800")
